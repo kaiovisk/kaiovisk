@@ -27,7 +27,9 @@
   <img align="center" alt="Kaio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Kaio-Arch" width="10%" src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg">
 </div>
-##
+  
+## ----------------------------------------------------------------------------  
+  
 <div>
   <img align="center" alt="computer-gif" width="100%" src="https://i.pinimg.com/originals/c6/dd/43/c6dd43d4562a8e1a7c51ba3bd597eedc.gif">
 </div>
