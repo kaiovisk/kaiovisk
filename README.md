@@ -1,6 +1,6 @@
 ## Roque, Kaio Roque.
-<h5 align="justify">|Licenciatura em Física na UFMS;</br>
-|Entusiasta de desenvolvimento de software e ciência da computação.<h5>
+<h5 align="justify">| Licenciatura em Física na UFMS;</br>
+| Entusiasta de desenvolvimento de software e ciência da computação.<h5>
 <div align="center">
   <a href="https://github.com/kaiovisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiovisk&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
