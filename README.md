@@ -30,6 +30,6 @@
   <img align="center" alt="Kaio-MDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Kaio-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Kaio-Arch" src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg">
+  <img align="center" alt="Kaio-Arch" width="50%" src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg">
 </div>
 
