@@ -23,7 +23,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" alt="Kaio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Kaio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Kaio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Kaio-Arch" width="10%" src="https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg">
 </div>
