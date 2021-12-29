@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiovisk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiovisk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></head>
+<body><i class="devicon-express-original"></i></body>
 <div style="display: inline_block"><br>
   <img align="left" alt="Kaio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="Kaio-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
